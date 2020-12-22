@@ -7,7 +7,7 @@
 
  # Step By Step Explanation
  
- Video Tutorial : https://youtu.be/YvkMv7LzCw
+ Video Tutorial : https://www.youtube.com/watch?feature=player_embedded&v=jYvkMv7LzCw
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=jYvkMv7LzCw
 " target="_blank"><img src="http://img.youtube.com/vi/jYvkMv7LzCw/0.jpg" 
